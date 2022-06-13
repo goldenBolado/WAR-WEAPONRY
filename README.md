@@ -1,5 +1,6 @@
 # WAR-WEAPONRY
 Site para armamentos de guerra - 1 INFO ETEC
+
 Hey guys, did you know that in terms of male human and female Pokémon breeding, 
 Vaporeon is the most compatible Pokémon for humans? 
 Not only are they in the field egg group, which is mostly comprised of mammals, 
